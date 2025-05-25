@@ -3,7 +3,7 @@ package basicSyntax;
 public class Variables {
 
 	public static void main(String[] args) {
-		// TODO 自動生成されたメソッド・スタブ
+		
 		int num1 = 57;
 		double num2 = 3.14;
 		String myfavorite = "私の好きな";

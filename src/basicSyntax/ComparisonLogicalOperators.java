@@ -13,7 +13,6 @@ public class ComparisonLogicalOperators {
 		System.out.println(isGreater);
 		
 		
-		
 		//実装２
 		boolean isSunny = true;
 		boolean isWarm = true;
@@ -38,6 +37,7 @@ public class ComparisonLogicalOperators {
 		
 		//実装４
 		boolean hasPermission = false;
+		
 		boolean which = !(hasPermission);
 		
 		//実装４の出力
