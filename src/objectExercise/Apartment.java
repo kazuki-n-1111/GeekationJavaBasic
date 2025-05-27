@@ -19,13 +19,13 @@ public class Apartment extends Property {
 	
 	
 	
-	// 以下ゲッター
+	// 以下はゲッター
 	// layoutのゲッター
 	public String getLayout() {
 		return this.layout;
 	}
 	
-	// 以下セッター
+	// 以下はセッター
 	// layoutのセッター
 	public void setLayout(String layout) {
 		this.layout = layout;

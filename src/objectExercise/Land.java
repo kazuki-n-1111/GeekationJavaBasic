@@ -19,13 +19,13 @@ public class Land extends Property {
 	
 	
 	
-	// 以下ゲッター
+	// 以下はゲッター
 	// layoutのゲッター
 	public double getExtent() {
 		return this.extent;
 	}
 	
-	// 以下セッター
+	// 以下はセッター
 	// layoutのセッター
 	public void setExtent(double extent) {
 		this.extent = extent;

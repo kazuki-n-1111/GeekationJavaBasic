@@ -11,6 +11,7 @@ public class Main {
 		land.info();
 		
 		
+		// 以下はゲッター及びセッターの検証用
 		// Apartmentのゲッター
 		// System.out.println(apartment.getAssets());
 		// System.out.println(apartment.getOwner());

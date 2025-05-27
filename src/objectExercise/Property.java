@@ -22,7 +22,7 @@ public class Property {
 		System.out.println("物件価格" + this.assetsPrice);
 	}
 	
-	// 以下ゲッター
+	// 以下はゲッター
 	// assetsのゲッター
 	public String getAssets() {
 		return this.assets;
@@ -44,7 +44,7 @@ public class Property {
 	}
 	
 	
-	// 以下セッター
+	// 以下はセッター
 	// assetsのセッター
 	public void setAssets(String assets) {
 		this.assets = assets;
